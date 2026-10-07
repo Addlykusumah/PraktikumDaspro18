@@ -31,5 +31,6 @@ public class StudiKasus118 {
             System.out.println("Uang yang dibayarkan kurang sebesar: " + kurang);
         }
     }
+    
 
 }
